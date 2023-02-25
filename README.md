@@ -1,5 +1,5 @@
-# Credit-Card-default-Prediction
+# Vehicle Insurance - Customer response prediction
 
-This project aims at developing a classification model to predict payment default of Taiwanese credit clients using their financial records spanning over 6 months (April 2005 - September 2005) consisting of over 25 financial credit card metrics.
+This Project aims at building a classification model for an insurance company to predict whether the policyholders (customers) from past year will be interested in buying the Vehicle Insurance provided by the company.
 
-I have used Logistic Regression, Decision Trees, Random Forest, SVM and a Boosted version of the ensemble algorithms to get the desired models.
+I have used 10 features providng information about demographics (gender, age, region code type), Vehicles (Vehicle Age, Damage) and Policy (Premium, sourcing channel) to predict customer response.
